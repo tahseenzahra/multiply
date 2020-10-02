@@ -9,6 +9,8 @@ int main(void)
     cin >> num1;
     cin >> num2;
     cin >> num3;
+
+
     cout <<"num1 * num2 * num3 = "
          <<num1 * num2 * num3
          <<endl;
